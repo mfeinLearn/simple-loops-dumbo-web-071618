@@ -63,5 +63,11 @@ def for_iterator(number_of_times)
   
   phrase = "Welcome to Flatiron School's Web Development Course!"
   
+  shoe_count = 1..7
+ 
+  for shoe in shoe_count 
+      puts "I'm putting a pair of shoes away."
+  end
+  
 end
 
