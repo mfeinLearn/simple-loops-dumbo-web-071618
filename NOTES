@@ -1,0 +1,20 @@
+loop do
+  puts "I have found the Time Machine!"
+end
+///////////////////////////////////////////////////
+shoe_count = 1..32
+ 
+for shoe in shoe_count 
+    puts "I'm putting a pair of shoes away."
+end
+
+/////////////////////////////////////////////////////
+
+phrase = 1..7
+phrase = "Welcome to Flatiron School's Web Development Course!"
+
+loop do 
+    puts phrase
+end
+
+ 
