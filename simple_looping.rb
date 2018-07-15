@@ -65,7 +65,7 @@ def for_iterator(number_of_times)
   
   count = 1..7
  
-  for shoe in count 
+  for phrase in count 
       puts "Welcome to Flatiron School's Web Development Course!"
   end
   
